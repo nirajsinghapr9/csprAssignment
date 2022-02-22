@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">csparMaps</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="abc_gmail_com">abc@gmail.com</string>
+    <string name="dd_mm_yyyy">dd-mm-yyyy</string>
+    <string name="name">Name</string>
+</resources>
